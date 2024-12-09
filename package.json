@@ -1,0 +1,21 @@
+{
+	"name": "lunchlog",
+	"version": "0.0.1",
+	"description": "A web app to document shared lunches, including places, ratings, and who paid.",
+	"main": "index.js",
+	"scripts": {
+		"test": "test"
+	},
+	"author": "René Zschoch",
+	"license": "ISC",
+	"engines": {
+		"node": "22.12.0"
+	},
+	"dependencies": {
+		"openapi-fetch": "0.13.3"
+	},
+	"devDependencies": {
+		"openapi-typescript": "7.4.4",
+		"typescript": "5.7.2"
+	}
+}
