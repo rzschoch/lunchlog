@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e138c3f9-ee03-4882-8082-1611d238d076/deploy-status)](https://app.netlify.com/sites/lunchlog/deploys)
+
 # Lunchlog
 
 ## Dependency Updates
